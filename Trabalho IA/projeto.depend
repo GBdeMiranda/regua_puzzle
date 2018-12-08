@@ -1,0 +1,245 @@
+# depslib dependency file v1.0
+1543812396 source:c:\users\mateu\dropbox\trabalho ia\projeto\main.cpp
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+
+1543804169 le.h"
+
+1543811595 source:c:\users\mateu\dropbox\trabalho ia\projeto\estado.cpp
+	"estado.h"
+
+1543806106 
+
+1543809706 c:\users\mateu\dropbox\trabalho ia\projeto\estado.h
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+
+1543812317 source:c:\users\mateu\dropbox\trabalho ia\projeto\reguapuzzle.cpp
+	"reguaPuzzle.h"
+
+1543808621 c:\users\mateu\dropbox\trabalho ia\projeto\reguapuzzle.h
+	"estado.h"
+
+1543807995 source:/home/vitor_monteiro/Dropbox/trabalho IA/projeto/estado.cpp
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+
+1543806106 /home/vitor_monteiro/Dropbox/trabalho IA/projeto/estado.h
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+
+1543807562 source:/home/vitor_monteiro/Dropbox/trabalho IA/projeto/main.cpp
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+
+1543805021 /home/vitor_monteiro/Dropbox/trabalho IA/projeto/reguaPuzzle.h
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+	"estado.h"
+
+1543804169 source:/home/vitor_monteiro/Dropbox/trabalho IA/projeto/reguaPuzzle.cpp
+	"reguaPuzzle.h"
+	"reguaPuzzle.h"
+	"reguaPuzzle.h"
+	"reguaPuzzle.h"
+	"reguaPuzzle.h"
+
+1543980522 source:/home/vitor_monteiro/Dropbox/trabalho IA/projeto/estado.cpp
+	"estado.h"
+
+1543980326 /home/vitor_monteiro/Dropbox/trabalho IA/projeto/estado.h
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+	<sstream>
+	<list>
+
+1543980457 source:/home/vitor_monteiro/Dropbox/trabalho IA/projeto/main.cpp
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+
+1543980548 /home/vitor_monteiro/Dropbox/trabalho IA/projeto/reguaPuzzle.h
+	"estado.h"
+
+1543980557 source:/home/vitor_monteiro/Dropbox/trabalho IA/projeto/reguaPuzzle.cpp
+	"reguaPuzzle.h"
+
+1544277746 source:/home/vitor_monteiro/Dropbox/TrabIA_Final/projeto/estado.cpp
+	"estado.h"
+
+1544228733 /home/vitor_monteiro/Dropbox/TrabIA_Final/projeto/estado.h
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+	<sstream>
+	<list>
+
+1544276969 source:/home/vitor_monteiro/Dropbox/TrabIA_Final/projeto/main.cpp
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"reguaPuzzle.h"
+
+1544275376 /home/vitor_monteiro/Dropbox/TrabIA_Final/projeto/reguaPuzzle.h
+	"estado.h"
+
+1544276969 source:/home/vitor_monteiro/Dropbox/TrabIA_Final/projeto/reguaPuzzle.cpp
+	"reguaPuzzle.h"
+	<ctime>
+	<time.h>
+
